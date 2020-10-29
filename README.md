@@ -1,16 +1,13 @@
 # RPPost
 
-A new Flutter project.
+A Flutter app to be deployed to iOS and Android that allows people around the world to play TableTop games such as Pathfinder, D&D, Shadowrun, etc to play via an app. With features that will allow for better character interactions and narative flow.
 
-## Getting Started
+# Coding with Friends 2020
 
-This project is a starting point for a Flutter application.
+I learned a lot doing this with Coding with Friends. I found that I just don't have the time! Having a toddler in my life and working a full time job means I just don't have the time and bandwith to work on major projects at a set speed. Though setting aside some serious time to work on the code a bit every day. Even if just a bit while watching tv was great
 
-A few resources to get you started if this is your first Flutter project:
+The first few weeks of the month I spent training on Flutter technologies, so I didn't get started with the coding for a long time.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+I also really enjoyed the group I was assigned to for encuragment, though it went pretty quiet half way through thw month.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I definitally didn't finish, and really didn't get far, but I got a ton of documentation and training to move forward with. Very excited to continue!
